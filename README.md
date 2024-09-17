@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Top_reasons_to_learn_DevOps.jpg">
 
 # 💫 About Me:
-- 🌱 I’m currently learning **AWS,Azure, Devops**<br><br>- 💬 Ask me about **AWS,Devops Content**<br><br>- 📫 How to reach me **ar.mahendar1999@gmail.com**<br><br>- ⚡ Fun fact **Gamer -BGMI**
+- 🌱 I’m Currently Working As **AWS,Azure, Devops**<br><br>- 💬 Ask me about **AWS,Devops Content**<br><br>- 📫 How to reach me **ar.mahendar1999@gmail.com**<br><br>- ⚡ Fun fact **Gamer -BGMI**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/archit3ct_25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahendar-shivarathri-9322a3232/) 
