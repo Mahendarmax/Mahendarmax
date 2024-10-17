@@ -37,7 +37,7 @@ I am a dedicated DevOps Engineer with 2.7+ years of experience, focusing in crea
 
  ![AWS Elastic Container Registry](https://img.shields.io/badge/AWS%20Elastic%20Container%20Registry-%230A66C2.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-[![EKS](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://img.shields.io/badge/Amazon%20EKS-FF9900.svg?style=for-the-badge&logo=Amazon-EKS&logoColor=white)
+![EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900.svg?style=for-the-badge&logo=Amazon-EKS&logoColor=white)
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
