@@ -7,7 +7,7 @@
 ## 🚀 About Me
 I am a dedicated DevOps Engineer with 2.7+ years of experience, focusing in creating and managing cloud-based solutions on AWS and Azure. My areas of experience include infrastructure automation, CI/CD pipeline optimization, and containerized environment management. I thrive on optimizing processes and increasing productivity by leveraging cutting-edge tools and cloud platforms.
 
-![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodeblog.dotsandbrackets.com%2Fprovisioning-cluster-ansible%2F&psig=AOvVaw1v7llJ_iXShH8WtrBjkz4U&ust=1734018463168000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCpxr6IoIoDFQAAAAAdAAAAABAE)
+![Logo]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodeblog.dotsandbrackets.com%2Fprovisioning-cluster-ansible%2F&psig=AOvVaw1v7llJ_iXShH8WtrBjkz4U&ust=1734018463168000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCpxr6IoIoDFQAAAAAdAAAAABAE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMmMbsIolrve-aGmPPUmZl4T80I9V2D2V7A&s))
 
 
 
