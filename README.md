@@ -7,7 +7,7 @@
 ## 🚀 About Me
 I am a dedicated DevOps Engineer with 2.7+ years of experience, focusing in creating and managing cloud-based solutions on AWS and Azure. My areas of experience include infrastructure automation, CI/CD pipeline optimization, and containerized environment management. I thrive on optimizing processes and increasing productivity by leveraging cutting-edge tools and cloud platforms.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahendar-shivarathri-3913a6290)
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwu1ImvNAtLtChc7R-M4VNQZa4pqfHqOeBNA&s)
 
 
 
