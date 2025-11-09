@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-I am a dedicated DevOps Engineer with 2.9+ years of experience, focusing in creating and managing cloud-based solutions on AWS and Azure. My areas of experience include infrastructure automation, CI/CD pipeline optimization, and containerized environment management. I thrive on optimizing processes and increasing productivity by leveraging cutting-edge tools and cloud platforms.
+I am a dedicated DevOps Engineer with 3.1+ years of experience, focusing in creating and managing cloud-based solutions on AWS and Azure. My areas of experience include infrastructure automation, CI/CD pipeline optimization, and containerized environment management. I thrive on optimizing processes and increasing productivity by leveraging cutting-edge tools and cloud platforms.
 
 ![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwu1ImvNAtLtChc7R-M4VNQZa4pqfHqOeBNA&s)
 
